@@ -42,6 +42,11 @@ function FC($file) {
                         <ul class="nav navbar-nav">
                             <li class="active"><a href="#">Exemples</a></li>
                         </ul>
+                        <ul class="nav navbar-nav navbar-right">
+                            <li>
+                                <a href="https://github.com/arnapou/jqkeychange"><i class="github-icon"></i> Github</a>
+                            </li>
+                        </ul>
                     </div>
                 </div>
             </nav>
