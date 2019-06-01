@@ -8,4 +8,4 @@ Features
 
 * trigger a jquery 'keyChange' event : it is an event which is between keypress and change event on an input or textarea.
 
-Live demo here : http://jqkeychange.arnapou.net/
+Live demo here : [jqkeychange.arnapou.net](http://jqkeychange.arnapou.net/)
